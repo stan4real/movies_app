@@ -53,7 +53,8 @@ This project demonstrates strong skills in third-party API integration, frontend
 
 2. Install dependencies:
   ```bash
-  npm install ```
+  npm install 
+  ```
 
 3. Create a .env file and add:
 
