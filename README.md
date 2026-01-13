@@ -4,7 +4,7 @@
 This project demonstrates strong skills in third-party API integration, frontend performance optimization, and backend-driven analytics.
 
 ## 🎥 Demo
-- 🔗 Live demo: [Movies_App](https://stan4real.github.io/movies-app/)
+- 🔗 Live demo: [Movies_App](https://stan4real.github.io/movies_app/)
 
 ## ✨ Features
 
