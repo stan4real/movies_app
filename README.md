@@ -50,6 +50,7 @@ This project demonstrates strong skills in third-party API integration, frontend
 ```bash
 git clone https://github.com/stan4real/movies-app.git   
 cd movies-app
+```
 
 2. Install dependencies:
 ```bash
