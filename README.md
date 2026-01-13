@@ -49,11 +49,11 @@ This project demonstrates strong skills in third-party API integration, frontend
 1. Clone the repository:
    ```bash
    git clone https://github.com/stan4real/movies-app.git   
-   cd movies-app
+   cd movies-app ```
 
 2. Install dependencies:
   ```bash
-  npm install```
+  npm install ```
 
 3. Create a .env file and add:
 
@@ -62,7 +62,7 @@ This project demonstrates strong skills in third-party API integration, frontend
   VITE_APPWRITE_PROJECT_ID=your_project_id
   VITE_APPWRITE_DATABASE_ID=your_database_id
   VITE_APPWRITE_COLLECTION_ID=your_collection_id
-  ```
+ ```
 
 4. Run the project:
 
